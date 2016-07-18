@@ -20,6 +20,10 @@ We will go over the syllabus and answer any questions that you might have about 
 
 This is the same assessment that we will be taking at the end of the course. It will demonstrate that we have progressed in our understanding in addition to producing a product.
 
+### Internet Citizenship
+
+How should we behave on the internet? What should we be careful of, is the internet dangerous? How should we treat content from the internet that other people have produced?
+
 ### CodePen Demo
 
 If we have time before lunch, I will pull up CodePen and demonstrate some of what we will be learning about.
@@ -37,6 +41,10 @@ Now that we are on Schoology, you should be able to have access to our first cha
 ### Discussion about Failure
 
 What does it mean to fail at something? Is it a bad thing? How does failure usually feel? How do you think it should make you feel?
+
+### A short history of the Internet
+
+How did the internet get here? What did it start as? What has it become?
 
 ### Choose topics for websites
 
