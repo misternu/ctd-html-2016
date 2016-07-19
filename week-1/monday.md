@@ -49,3 +49,7 @@ How did the internet get here? What did it start as? What has it become?
 ### Choose topics for websites
 
 We can use the rest of the day to start brainstorming and researching our website topics. It may be necessary to scale back more ambitious projects that you have in mind, or to expand your idea to something bigger.
+
+## Homework
+
+[Basic Tag Challenge](challenges/basic_tag.md)
