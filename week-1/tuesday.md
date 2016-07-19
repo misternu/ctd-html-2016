@@ -10,12 +10,6 @@ Stand up meeting up front to discuss the problems that people might have had. Li
 
 Demonstrate how to download and include image files with your html files. Show them the difference between local and remote linking.
 
-### Photoshop
-
-See what we can learn about how to use photoshop. If possible, we should include transparency in these images. Once we have all made something, practice exporting images. Take those images and link them in our previous local files.
-
-Demonstrate wireframing. Set standards for what will be in this wireframe. Now the students should try to create their own standard wireframes. Once the submissions are in, discuss the pros/cons of planning your website.
-
 ## Afternoon (Noon - 2:45pm)
 
 ### Planning packet on schoology
@@ -26,7 +20,15 @@ We need to think about some basic questions about who our site is for, why we ar
 
 We need to have a folder on the shared drive to hold the students work. It will have subfolders for each project. Once made, we should move our planning information and our first wireframe into those folders.
 
-###
+### Webpage Template
+
+We seem to be making these basic files a lot. What if we had some sort of template that we could use every time? Let's make a copy of our html boiler plate, an empty `style.css` file, and an empty images folder. When we are starting a new challenge, we can just copy from these files.
+
+### Photoshop
+
+See what we can learn about how to use photoshop. If possible, we should include transparency in these images. Once we have all made something, practice exporting images. Take those images and link them in our previous local files.
+
+Demonstrate wireframing. Set standards for what will be in this wireframe. Now the students should try to create their own standard wireframes. Once the submissions are in, discuss the pros/cons of planning your website.
 
 ### Pack up at or before 2:30pm
 
