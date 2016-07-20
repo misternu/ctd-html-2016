@@ -26,4 +26,4 @@ Check to see if anyone needs to do a bathroom break.
 
 ## Homework
 
-
+[Class and ID Challenge](../challenges/class-id.md)

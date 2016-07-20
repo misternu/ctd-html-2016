@@ -10,5 +10,7 @@ This is an index of all of the challenges. Optional challenges are marked "STRET
 
 [Choose Your Own Adventure](challenges/cyaa.md)
 
+[Class and ID Challenge](challenges/class-id.md)
+
 ## PHP
 
