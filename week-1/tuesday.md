@@ -28,8 +28,6 @@ We seem to be making these basic files a lot. What if we had some sort of templa
 
 See what we can learn about how to use photoshop. If possible, we should include transparency in these images. Once we have all made something, practice exporting images. Take those images and link them in our previous local files.
 
-Demonstrate wireframing. Set standards for what will be in this wireframe. Now the students should try to create their own standard wireframes. Once the submissions are in, discuss the pros/cons of planning your website.
-
 ### Pack up at or before 2:30pm
 
 Yesterday we were late to leave! We will fix it this time. Check to see if anyone needs to do a bathroom break.

@@ -18,8 +18,6 @@ Demonstration, followed by students submitting their own examples
 
 We need to think about some basic questions about who our site is for, why we are making it, and what kind of results we aim to achieve. Type your responses into text files, and save our results to your project folders
 
-## Afternoon (Noon - 2:45pm)
-
 ### Pack up at or before 2:30pm
 
 Check to see if anyone needs to do a bathroom break.
