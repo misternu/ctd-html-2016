@@ -13,3 +13,7 @@ Lets start assembling our ideas on to the wall, so that we don't have to look as
 Start work on answering planning questions and save your answers to your project folder on the scratch drive.
 
 Demonstrate wireframing. Set standards for what will be in this wireframe. Now the students should try to create their own standard wireframes. Once the submissions are in, discuss the pros/cons of planning your website.
+
+### Homework
+
+See Schoology for tonights assignment.
