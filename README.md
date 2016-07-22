@@ -6,7 +6,7 @@ These are the challenges that I created for a gifted summer program in web desig
 
 ## Week One
 
-[Monday] (week-1/monday.md) [Tuesday](week-1/tuesday.md) [Wednesday](week-1/wednesday.md) [Thursday](week-1/thursday.md)
+[Monday] (week-1/monday.md) [Tuesday](week-1/tuesday.md) [Wednesday](week-1/wednesday.md) [Thursday](week-1/thursday.md) [Friday](week-1/friday.md)
 
 ## Week Two
 
