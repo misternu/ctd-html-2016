@@ -4,7 +4,7 @@ We have started learning some real CSS, and this weekends challenge is to apply 
 
 ### Preparation
 
-Download the index.html file that I have prepared. Put it in a folder for this challenge, and open it in Chrome. It should look something like this:
+Download the [index.html](https://gist.github.com/misternu/1e2d45f62887d966b057eb38883733d7/archive/8e63fbce58089e2a1b591e9ad9fdb6f82f8895ca.zip) file that I have prepared. Put it in a folder for this challenge, and open it in Chrome. It should look something like this:
 
 ![Lorem Ipsum Page](../imgs/Lorem.png)
 
