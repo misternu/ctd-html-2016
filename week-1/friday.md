@@ -11,3 +11,7 @@ We will spend some time trying to create some examples of our own, for sharing w
 ### Choosing a color scheme
 
 Taking into account our answers to the planning questions, we should generate some color schemes for our websites.
+
+### One on One
+
+One on one meetings to talk about progress with the material and with planning our websites.
