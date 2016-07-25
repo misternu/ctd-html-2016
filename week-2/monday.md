@@ -21,3 +21,7 @@ A short demonstration of what JavaScript is and why we would want to use it.
 ### One on One Progress Meetings
 
 This week we will meet every day to see how your site is coming along. This will help me to plan demonstrations and lessons tailored to your changing and unpredictable needs.
+
+### Monday Stretch
+
+[Media Queries](challenges/media.md)
