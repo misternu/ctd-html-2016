@@ -14,5 +14,10 @@ This is an index of all of the challenges. Optional challenges are marked "STRET
 
 [1st Weekend Challenge](challenges/week-1.md)
 
-## PHP
+[Begin work on Final Project](challenges/final.md)
 
+STRETCH [Media Query Challenge](challenges/media.md)
+
+## JavaScript
+
+[Beginner JavaScript Challenge](challenges/js-hello-world.md)
