@@ -18,6 +18,6 @@ We have all been having issues with navbars, time for a quick demonstration of t
 
 I'll show you a bit of jQuery. It's much easier than JavaScript, but don't worry if it doesn't make sense the first time.
 
-### Stretch CSS Challenge
+### Homework
 
-Todays stretch challenge will be the 'hover' pseudoclass.
+[Consistent Interfaces](../challenges/consistent.md)

@@ -18,6 +18,8 @@ This is an index of all of the challenges. Optional challenges are marked "STRET
 
 STRETCH [Media Query Challenge](challenges/media.md)
 
+[Consistent Interfaces](challenges/consistent.md)
+
 ## JavaScript
 
 [Beginner JavaScript Challenge](challenges/js-hello-world.md)
