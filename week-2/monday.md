@@ -24,4 +24,4 @@ This week we will meet every day to see how your site is coming along. This will
 
 ### Monday Stretch
 
-[Media Queries](challenges/media.md)
+[Media Queries](../challenges/media.md)
