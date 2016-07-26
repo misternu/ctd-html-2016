@@ -1,6 +1,6 @@
-STRETCH [SCSS, or 'Sass'](challenges/scss.md)
-
 STRETCH [CSS Hover Pseudoattribute](challenges/hover.md)
+
+STRETCH [SCSS, or 'Sass'](challenges/scss.md)
 
 STRETCH []
 
