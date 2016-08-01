@@ -14,4 +14,4 @@ These are the challenges that I created for a gifted summer program in web desig
 
 ## Week Three
 
-TBD
+[Monday] (week-3/monday.md)
